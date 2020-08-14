@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="image_preview">Image is shown here</string>
+    <string name="pathToFile">/data/user/0/com.example.popularmovies/files/popularMoviesList.txt</string>
+    <string name="detail_error_message">Error Getting Movie Position</string>
+    <string name="popularity">Popularity</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="rating_title">Rating</string>
+    <string name="rating_hint">Stars</string>
+    <string name="released">Released:</string>
+    <string name="release_date_hint">Coming Soon!</string>
+    <string name="plot">This is a great movie about …</string>
+    <string name="sort_most_popular">Most Popular Movies</string>
+    <string name="class_not_found">Class not found</string>
+    <string name="problem_retrieving_data">Problem retrieving data...Please try later!</string>
+    <string name="format_double">%.2f/10</string>
+    <string name="popular_sorting">Sorting by most popular movie</string>
+    <string name="parsing_problem">Unable to parse data</string>
+    />
+</resources>
